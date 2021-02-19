@@ -1,4 +1,4 @@
-### Hi there 👋
+### About Me 👋
 
 <!--
 **erinbern/erinbern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+😄 Pronouns : She/Her
+📫 Email    : erinbern@outlook.com
+💬 XMPP     : erin@nixnet.xyz
