@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-😄 Pronouns : She/Her
+🏳️‍⚧️        : She/Her
 
-📫 Email    : erinbern@outlook.com
+📫          : erinbern@outlook.com
 
-💬 XMPP     : erin@nixnet.xyz
+💬          : erin@nixnet.xyz (XMPP)
