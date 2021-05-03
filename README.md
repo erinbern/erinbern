@@ -3,7 +3,7 @@
 ---
 🏳️‍🌈       : She/Her
 
-🌐          : W.I.P
+🌐          : https://erinbern.com/ (W.I.P.)
 
 📫          : erinbern@outlook.com
 
