@@ -5,7 +5,7 @@
 
 🌐          : https://erinbern.com/ (W.I.P.)
 
-📫          : erinbern@outlook.com
+📫          : contact@erinbern.com
 
 💬          : erin@nixnet.xyz (XMPP)
 
