@@ -1,6 +1,7 @@
 # About Me
 
-- 👋 Hi, I’m @erinbern. A plant-based nudist with an internet addiction.
+- 👋 Hi, I’m Erin Bern! (she/her)
+- ❓ A plant-based nudist with an internet addiction.
 - 👀 I’m interested in learning about computers & people.
 - 📖 I’m currently learning [Busy Doing Nothing](https://100r.co/site/busy_doing_nothing.html) by Rekka Bellum & Devine Lu Linvega
 - 📫 Contact me via e-mail or send me a DM on the Fediverse.
