@@ -1,10 +1,14 @@
-# About Me
+## About
 
 - 👋 Hi, I’m Erin Bern! (she/her)
 - ❓ A plant-based nudist with an internet addiction.
 - 👀 I’m interested in learning about computers & people.
 - 📖 I’m currently learning [Busy Doing Nothing](https://100r.co/site/busy_doing_nothing.html) by Rekka Bellum & Devine Lu Linvega
 - 📫 Contact me via e-mail or send me a DM on the Fediverse.
+
+## Activities
+- 2021-10-11 Recipe Submission - [Hearty Beans & Spicy Rice](https://just-the.recipes/2021/10/11/bean-spicyrice)
+- 2021-10-07 Recipe Submission - [Northern Beans & Kraut](https://just-the.recipes/2021/10/07/northern-beans)
 
 <!---
 erinbern/erinbern is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
