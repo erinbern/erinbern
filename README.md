@@ -7,6 +7,7 @@
 - 📫 Contact me via e-mail or send me a DM on the Fediverse.
 
 ## Activities
+### Recipes
 - 2021-10-11 Recipe Submission - [Hearty Beans & Spicy Rice](https://just-the.recipes/2021/10/11/bean-spicyrice)
 - 2021-10-07 Recipe Submission - [Northern Beans & Kraut](https://just-the.recipes/2021/10/07/northern-beans)
 
